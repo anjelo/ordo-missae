@@ -1,0 +1,5 @@
+<img style="width: 16px; height: 16px;" alt="" src="../../en/graphics/rubric-cross.gif">
+<span class="rubric-cross">☩</span>
+
+style="color: rgb(255, 0, 0);"
+class="red"

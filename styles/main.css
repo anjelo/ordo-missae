@@ -1,0 +1,83 @@
+body{
+    background-image:url("../images/bg.jpg");
+    font-family:  'Fanwood Text', sans-serif;
+}
+h3 {
+color: black;
+font-size: 19px;
+font-weight: bolder;
+}
+h1{
+    color: #CC0000;
+}
+h2 {
+color: black;
+font-size: 25px;
+font-weight: normal;
+}
+
+mainmenu{
+    text-align: center;
+}
+footer
+{
+    text-align: center;
+}
+.masstext,.MassText,.responses {
+font-size: 18px;
+font-weight: bold;
+color: black;
+text-align: justify;
+}
+.MenuLink{
+
+color: #CC0000;
+text-decoration: none;
+}
+.rubrics, .Rubrics, .rubric-cross, .red {
+color: #CC0000;
+}
+.rubrics-margined{
+color: #CC0000;
+margin-left: 40px;
+}
+.justified-text{
+
+}
+////////////////////////////////////////
+.ImageCap {
+float: left;
+margin:  3px 3px 3px 3px;
+width: 139px; 
+height: 140px;
+}
+.MassCapRed {
+font-size: 87px;
+font-weight: normal;
+color: #CC0000;
+float: left;
+line-height: 62px;
+margin-top: 4px;
+margin-left: 4px;
+margin-right: 4px;
+margin-bottom: 4px;
+}
+
+.Capped:first-letter{
+    font-size: 87px;
+font-weight: normal;
+color: #CC0000;
+float: left;
+line-height: 62px;
+margin-top: 4px;
+margin-left: 4px;
+margin-right: 4px;
+margin-bottom: 4px;
+}
+.MasterWrapper{
+    max-width:500px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+
